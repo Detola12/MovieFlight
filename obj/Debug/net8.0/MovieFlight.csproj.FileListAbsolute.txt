@@ -1,0 +1,14 @@
+C:\Users\adeto\Documents\MovieFlight\bin\Debug\net8.0\MovieFlight.exe
+C:\Users\adeto\Documents\MovieFlight\bin\Debug\net8.0\MovieFlight.deps.json
+C:\Users\adeto\Documents\MovieFlight\bin\Debug\net8.0\MovieFlight.runtimeconfig.json
+C:\Users\adeto\Documents\MovieFlight\bin\Debug\net8.0\MovieFlight.dll
+C:\Users\adeto\Documents\MovieFlight\bin\Debug\net8.0\MovieFlight.pdb
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.AssemblyInfoInputs.cache
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.AssemblyInfo.cs
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.csproj.CoreCompileInputs.cache
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.dll
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\refint\MovieFlight.dll
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.pdb
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\MovieFlight.genruntimeconfig.cache
+C:\Users\adeto\Documents\MovieFlight\obj\Debug\net8.0\ref\MovieFlight.dll
