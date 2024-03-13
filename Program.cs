@@ -18,10 +18,7 @@
 
                 if(temp + movie[x] <= length && i != x){
                     result = true;
-                    if(!store_movie.Contains(x)){
-                        store_movie.Add(i);
-                        Console.WriteLine($"Movie {i + 1} and Movie {x + 1}");
-                    }
+                    Console.WriteLine($"Movie {i + 1} and Movie {x + 1}");
                 }
             }
         }
